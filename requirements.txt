@@ -39,7 +39,7 @@ pycryptodomex==3.7.3
 python-dotenv==0.10.1
 Python-EasyConfig==0.1.7
 pytz==2018.9
-PyYAML==3.13
+PyYAML==5.4
 requests==2.21.0
 Resource==0.2.1
 six==1.12.0
